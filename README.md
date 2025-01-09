@@ -1,1 +1,0 @@
-# hamster-kombat-telegram-clone
